@@ -2,13 +2,15 @@
 
 ## Build
 
-with maven
+### with maven
+
 ```
 cd hello
 mvn package
 ```
 
-with gradle
+### with gradle
+
 ```
 ./gradlew hello:shadowJar
 ```
