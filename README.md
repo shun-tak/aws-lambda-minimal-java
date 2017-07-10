@@ -23,5 +23,5 @@ with gradle
 
 ## Test
 
-Input: `1`
-Expected output: `"1"`
+- Input: `1`
+- Expected output: `"1"`
